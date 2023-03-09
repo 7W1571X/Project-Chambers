@@ -1,0 +1,5 @@
+#ifndef PROJECT_CHAMBERS_GAME_HPP_
+#define PROJECT_CHAMBERS_GAME_HPP_
+void game_main(void);
+
+#endif // !PROJECT_CHAMBERS_GAME_HPP_
